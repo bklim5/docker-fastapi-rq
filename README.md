@@ -1,6 +1,6 @@
 # Dockerizd Python RQ + FastAPI 
 
-This is an example of a Dockerized version of FastAPI + Python RQ. More information can be found in the blog post here: 
+This is an example of a Dockerized version of FastAPI + Python RQ. More information can be found in the blog post [here](https://blog.devgenius.io/efficient-background-job-processing-with-docker-python-fastapi-and-redis-queue-with-an-example-8eb0c6188981)
 
 It includes:
 1. app/api.py - The API layer that allows user to submit a job to the queue, and query the status of a job via API endpoints
